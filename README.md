@@ -1,17 +1,15 @@
-# soc-notes
+# dev-notes-and-knowledge-base
 
-SOC / SIEM / Incident Response notes.
+My personal knowledge base and structured engineering notes.
 
-This repository contains my structured learning notes related to Security Operations.
+This repository serves as a clean, public repository for structured concepts, cheat sheets, and documentation spanning software engineering, system architecture, and security.
 
-It serves as a clean, public knowledge base.
-Raw and unstructured notes are kept separately in a private repository.
+Raw, daily scratchpads and unstructured notes are kept separately in a private repository.
 
-Topics include:
+### Knowledge Map
 
-* SOC fundamentals
-* SIEM & log analysis
-* Detection & alerting
-* Incident response
+**[Explore Full System Architecture & Engineering Infographics](./Infographics/README.md)**
 
-Content is continuously updated as I learn.
+![Infographic/Banner Description](Infographics/AI.png)
+
+*Content is continuously updated as I build, break, and learn.*
