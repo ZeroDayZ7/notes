@@ -1,10 +1,10 @@
-# 📊 System Architecture & Engineering Infographics
+# System Architecture & Engineering Infographics
 
 A collection of visual maps, architecture diagrams, and concept blueprints created to document and design various systems, automation workflows, and security infrastructures.
 
 ---
 
-### 🧠 Automation & Intelligent Systems (AI & ERP)
+### Automation & Intelligent Systems (AI & ERP)
 *   **AI Agent Workflows:**  
     ![AI Workflow](AI.png)
 *   **ERP Architecture:**  
@@ -14,7 +14,7 @@ A collection of visual maps, architecture diagrams, and concept blueprints creat
 
 ---
 
-### 🛡️ Security & Access Management (SecOps / IAM)
+### Security & Access Management (SecOps / IAM)
 *   **SOC Ecosystem:**  
     ![SOC Ecosystem](SOC.png)
 *   **SIEM Logging & Detection:**  
@@ -28,7 +28,7 @@ A collection of visual maps, architecture diagrams, and concept blueprints creat
 
 ---
 
-### 🌐 Infrastructure, Networks & Hardware (DevOps & Edge)
+### Infrastructure, Networks & Hardware (DevOps & Edge)
 *   **NOC Monitoring:**  
     ![NOC Monitoring](NOC.png)
 *   **System Architecture (General):**  
